@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NuGetBugTest", "NuGetBugTest\NuGetBugTest.csproj", "{93CE693A-1556-4B6F-9ABF-6B466D51EF8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Newtonsoft.Json", "Newtonsoft.Json\Newtonsoft.Json.csproj", "{E480C848-9469-4691-B68B-90BA8C51C2B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93CE693A-1556-4B6F-9ABF-6B466D51EF8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CE693A-1556-4B6F-9ABF-6B466D51EF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CE693A-1556-4B6F-9ABF-6B466D51EF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CE693A-1556-4B6F-9ABF-6B466D51EF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E480C848-9469-4691-B68B-90BA8C51C2B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E480C848-9469-4691-B68B-90BA8C51C2B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E480C848-9469-4691-B68B-90BA8C51C2B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E480C848-9469-4691-B68B-90BA8C51C2B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62AA43DA-BA05-447D-9E63-A8D0294A3BC2}
+	EndGlobalSection
+EndGlobal
